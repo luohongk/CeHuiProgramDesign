@@ -1,0 +1,9 @@
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\bin\Debug\DianYunFenGe.exe.config
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\bin\Debug\DianYunFenGe.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\bin\Debug\DianYunFenGe.pdb
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\obj\Debug\DianYunFenGe.Form1.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\obj\Debug\DianYunFenGe.Properties.Resources.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\obj\Debug\DianYunFenGe.csproj.GenerateResource.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\obj\Debug\DianYunFenGe.csproj.CoreCompileInputs.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\obj\Debug\DianYunFenGe.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计正式比赛\DianYunFenGe\DianYunFenGe\obj\Debug\DianYunFenGe.pdb

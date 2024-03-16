@@ -1,0 +1,9 @@
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\bin\Debug\QianFangJiaoHui.exe.config
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\bin\Debug\QianFangJiaoHui.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\bin\Debug\QianFangJiaoHui.pdb
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.Form1.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.Properties.Resources.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.csproj.GenerateResource.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.csproj.CoreCompileInputs.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\遥感影像的空间前方交会\QianFangJiaoHui\QianFangJiaoHui\obj\Debug\QianFangJiaoHui.pdb

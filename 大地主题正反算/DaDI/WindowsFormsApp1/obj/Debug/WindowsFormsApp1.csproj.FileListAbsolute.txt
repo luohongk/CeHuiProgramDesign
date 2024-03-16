@@ -1,0 +1,9 @@
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.大地主题结算.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\大地主题正反算\DaDI\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

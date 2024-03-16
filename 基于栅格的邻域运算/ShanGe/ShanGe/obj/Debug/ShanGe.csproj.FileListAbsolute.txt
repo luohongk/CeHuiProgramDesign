@@ -1,0 +1,10 @@
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\bin\Debug\ShanGe.exe.config
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\bin\Debug\ShanGe.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\bin\Debug\ShanGe.pdb
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\obj\Debug\ShanGe.Form1.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\obj\Debug\ShanGe.Properties.Resources.resources
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\obj\Debug\ShanGe.csproj.GenerateResource.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\obj\Debug\ShanGe.csproj.CoreCompileInputs.cache
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\obj\Debug\ShanGe.exe
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\obj\Debug\ShanGe.pdb
+D:\OneDrive - cumt.edu.cn\桌面\测绘程序设计\2023备赛\基于栅格的邻域运算\ShanGe\ShanGe\obj\Debug\ShanGe.csprojAssemblyReference.cache
