@@ -46,3 +46,7 @@ This project is mainly about the design of surveying and mapping programs. Help 
 有关原理部分此书上都有。
 
 ![示例图片](./picture/cehui.jpg)
+
+## 致谢
+
+https://github.com/Asgardren/Results-of-Asgardren-s-Geomatics-Program-Design-Competition
