@@ -1,0 +1,10 @@
+D:\vs项目\统计滤波点云去噪k\bin\Debug\统计滤波点云去噪k.exe.config
+D:\vs项目\统计滤波点云去噪k\bin\Debug\统计滤波点云去噪k.exe
+D:\vs项目\统计滤波点云去噪k\bin\Debug\统计滤波点云去噪k.pdb
+D:\vs项目\统计滤波点云去噪k\obj\Debug\统计滤波点云去噪k.csproj.AssemblyReference.cache
+D:\vs项目\统计滤波点云去噪k\obj\Debug\统计滤波点云去噪k.Form1.resources
+D:\vs项目\统计滤波点云去噪k\obj\Debug\统计滤波点云去噪k.Properties.Resources.resources
+D:\vs项目\统计滤波点云去噪k\obj\Debug\统计滤波点云去噪k.csproj.GenerateResource.cache
+D:\vs项目\统计滤波点云去噪k\obj\Debug\统计滤波点云去噪k.csproj.CoreCompileInputs.cache
+D:\vs项目\统计滤波点云去噪k\obj\Debug\统计滤波点云去噪k.exe
+D:\vs项目\统计滤波点云去噪k\obj\Debug\统计滤波点云去噪k.pdb
