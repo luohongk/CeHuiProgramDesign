@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11Curve_Fitting", "11Curve_Fitting\11Curve_Fitting.csproj", "{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C2B7B9-2846-4C1C-9054-ECD0E727DE50}
+	EndGlobalSection
+EndGlobal

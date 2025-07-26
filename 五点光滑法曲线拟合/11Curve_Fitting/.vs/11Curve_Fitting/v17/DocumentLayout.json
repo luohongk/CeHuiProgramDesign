@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|d:\\onedrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11curve_fitting\\11curve_fitting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|solutionrelative:11curve_fitting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11curve_fitting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|solutionrelative:11curve_fitting\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11curve_fitting\\filecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|solutionrelative:11curve_fitting\\filecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11curve_fitting\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|solutionrelative:11curve_fitting\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11curve_fitting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|solutionrelative:11curve_fitting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11curve_fitting\\datacenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|solutionrelative:11curve_fitting\\datacenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11curve_fitting\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A629DD3E-D84A-4E53-8AD9-27DF9B8F122F}|11Curve_Fitting\\11Curve_Fitting.csproj|solutionrelative:11curve_fitting\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Report.cs",
+              "RelativeDocumentMoniker": "11Curve_Fitting\\Report.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Report.cs",
+              "RelativeToolTip": "11Curve_Fitting\\Report.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:26:22.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Algo.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Algo.cs",
+              "RelativeDocumentMoniker": "11Curve_Fitting\\Algo.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Algo.cs",
+              "RelativeToolTip": "11Curve_Fitting\\Algo.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwFgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:26:22.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileCenter.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\FileCenter.cs",
+              "RelativeDocumentMoniker": "11Curve_Fitting\\FileCenter.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\FileCenter.cs",
+              "RelativeToolTip": "11Curve_Fitting\\FileCenter.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:26:22.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataCenter.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\DataCenter.cs",
+              "RelativeDocumentMoniker": "11Curve_Fitting\\DataCenter.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\DataCenter.cs",
+              "RelativeToolTip": "11Curve_Fitting\\DataCenter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:26:22.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Point.cs",
+              "RelativeDocumentMoniker": "11Curve_Fitting\\Point.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Point.cs",
+              "RelativeToolTip": "11Curve_Fitting\\Point.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:26:22.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Form1.cs",
+              "RelativeDocumentMoniker": "11Curve_Fitting\\Form1.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Form1.cs",
+              "RelativeToolTip": "11Curve_Fitting\\Form1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:26:22.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u4E94\u70B9\u5149\u6ED1\u6CD5\u66F2\u7EBF\u62DF\u5408\\11Curve_Fitting\\11Curve_Fitting\\Form1.cs",
+              "RelativeDocumentMoniker": "11Curve_Fitting\\Form1.cs",
+              "ToolTip": "E:\\5 \u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\\11Curve_Fitting\\11Curve_Fitting\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-26T05:26:22.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

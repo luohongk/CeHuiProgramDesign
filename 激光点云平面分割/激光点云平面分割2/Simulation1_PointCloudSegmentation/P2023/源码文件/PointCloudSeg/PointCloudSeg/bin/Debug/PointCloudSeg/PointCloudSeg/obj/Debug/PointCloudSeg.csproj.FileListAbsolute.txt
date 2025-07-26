@@ -1,0 +1,10 @@
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.exe.config
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.exe
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.pdb
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csprojAssemblyReference.cache
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.Form1.resources
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.Properties.Resources.resources
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.GenerateResource.cache
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.CoreCompileInputs.cache
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.exe
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.pdb

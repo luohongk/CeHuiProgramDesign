@@ -1,0 +1,10 @@
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\bin\Debug\空间-后方交汇.exe.config
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\bin\Debug\空间-后方交汇.exe
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\bin\Debug\空间-后方交汇.pdb
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\obj\Debug\随机抽样一致性.csprojAssemblyReference.cache
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\obj\Debug\空间_后方交汇.Form1.resources
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\obj\Debug\空间_后方交汇.Properties.Resources.resources
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\obj\Debug\随机抽样一致性.csproj.GenerateResource.cache
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\obj\Debug\随机抽样一致性.csproj.CoreCompileInputs.cache
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\obj\Debug\空间-后方交汇.exe
+D:\vs2017项目\随机抽样一致性\随机抽样一致性\obj\Debug\空间-后方交汇.pdb

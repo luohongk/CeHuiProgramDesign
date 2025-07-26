@@ -1,0 +1,21 @@
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.exe.config
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.exe
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.pdb
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csprojAssemblyReference.cache
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.Form1.resources
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.Properties.Resources.resources
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.GenerateResource.cache
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.CoreCompileInputs.cache
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.exe
+G:\CsharpProgram\guosai\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.pdb
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.exe.config
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.exe
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\bin\Debug\PointCloudSeg.pdb
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.AssemblyReference.cache
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.SuggestedBindingRedirects.cache
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.Form1.resources
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.Properties.Resources.resources
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.GenerateResource.cache
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.csproj.CoreCompileInputs.cache
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.exe
+C:\Users\YB\Downloads\A-P2023 -2518\P2023\源码文件\PointCloudSeg\PointCloudSeg\obj\Debug\PointCloudSeg.pdb

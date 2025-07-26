@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\SurveyAlgo\\\u6FC0\u5149\u70B9\u4E91\u5E73\u9762\u5206\u5272\\Simulation1_PointCloudSegmentation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C623ADC-A865-41B4-98DB-48F9EB72FB63}|Simulation1_PointCloudSegmentation\\Simulation1_PointCloudSegmentation.csproj|d:\\onedrive - cumt.edu.cn\\\u684C\u9762\\surveyalgo\\\u6FC0\u5149\u70B9\u4E91\u5E73\u9762\u5206\u5272\\simulation1_pointcloudsegmentation\\simulation1_pointcloudsegmentation\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C623ADC-A865-41B4-98DB-48F9EB72FB63}|Simulation1_PointCloudSegmentation\\Simulation1_PointCloudSegmentation.csproj|solutionrelative:simulation1_pointcloudsegmentation\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Algorithm.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\SurveyAlgo\\\u6FC0\u5149\u70B9\u4E91\u5E73\u9762\u5206\u5272\\Simulation1_PointCloudSegmentation\\Simulation1_PointCloudSegmentation\\Algorithm.cs",
+              "RelativeDocumentMoniker": "Simulation1_PointCloudSegmentation\\Algorithm.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\SurveyAlgo\\\u6FC0\u5149\u70B9\u4E91\u5E73\u9762\u5206\u5272\\Simulation1_PointCloudSegmentation\\Simulation1_PointCloudSegmentation\\Algorithm.cs",
+              "RelativeToolTip": "Simulation1_PointCloudSegmentation\\Algorithm.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:36:04.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

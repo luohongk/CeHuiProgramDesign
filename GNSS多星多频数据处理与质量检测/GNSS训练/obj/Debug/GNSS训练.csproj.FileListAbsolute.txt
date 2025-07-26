@@ -1,0 +1,10 @@
+D:\vs项目\GNSS训练\bin\Debug\GNSS训练.exe.config
+D:\vs项目\GNSS训练\bin\Debug\GNSS训练.exe
+D:\vs项目\GNSS训练\bin\Debug\GNSS训练.pdb
+D:\vs项目\GNSS训练\obj\Debug\GNSS训练.csproj.AssemblyReference.cache
+D:\vs项目\GNSS训练\obj\Debug\GNSS训练.Form1.resources
+D:\vs项目\GNSS训练\obj\Debug\GNSS训练.Properties.Resources.resources
+D:\vs项目\GNSS训练\obj\Debug\GNSS训练.csproj.GenerateResource.cache
+D:\vs项目\GNSS训练\obj\Debug\GNSS训练.csproj.CoreCompileInputs.cache
+D:\vs项目\GNSS训练\obj\Debug\GNSS训练.exe
+D:\vs项目\GNSS训练\obj\Debug\GNSS训练.pdb

@@ -1,6 +1,0 @@
-Longitude, latitude, scale
-118.0730, 36.1023,1:50000
-Traditional map sheet number, scale
-I5012013,1:25000
-New map sheet number, scale
-F50D010012,1:100000

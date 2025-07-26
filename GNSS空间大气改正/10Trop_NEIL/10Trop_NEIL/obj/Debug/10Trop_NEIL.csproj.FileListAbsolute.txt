@@ -1,0 +1,11 @@
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\bin\Debug\10Trop_NEIL.exe.config
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\bin\Debug\10Trop_NEIL.exe
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\bin\Debug\10Trop_NEIL.pdb
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\10Trop_NEIL.csproj.AssemblyReference.cache
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\10Trop_NEIL.csproj.SuggestedBindingRedirects.cache
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\_10Trop_NEIL.Form1.resources
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\_10Trop_NEIL.Properties.Resources.resources
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\10Trop_NEIL.csproj.GenerateResource.cache
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\10Trop_NEIL.csproj.CoreCompileInputs.cache
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\10Trop_NEIL.exe
+E:\5 测绘程序设计\10Trop_NEIL\10Trop_NEIL\obj\Debug\10Trop_NEIL.pdb

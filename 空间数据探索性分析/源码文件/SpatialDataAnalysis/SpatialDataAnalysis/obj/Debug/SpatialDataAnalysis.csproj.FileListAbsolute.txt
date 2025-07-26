@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\bin\Debug\SpatialDataAnalysis.exe.config
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\bin\Debug\SpatialDataAnalysis.exe
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\bin\Debug\SpatialDataAnalysis.pdb
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\obj\Debug\SpatialDataAnalysis.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\obj\Debug\SpatialDataAnalysis.Form1.resources
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\obj\Debug\SpatialDataAnalysis.Properties.Resources.resources
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\obj\Debug\SpatialDataAnalysis.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\obj\Debug\SpatialDataAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\obj\Debug\SpatialDataAnalysis.exe
+C:\Users\DELL\Desktop\7月29日国赛\源码文件\SpatialDataAnalysis\SpatialDataAnalysis\obj\Debug\SpatialDataAnalysis.pdb

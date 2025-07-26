@@ -1,0 +1,11 @@
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\bin\Debug\09Section_Cal.exe.config
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\bin\Debug\09Section_Cal.exe
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\bin\Debug\09Section_Cal.pdb
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\_09Section_Cal.Form1.resources
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\_09Section_Cal.Properties.Resources.resources
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\09Section_Cal.csproj.GenerateResource.cache
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\09Section_Cal.csproj.CoreCompileInputs.cache
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\09Section_Cal.exe
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\09Section_Cal.pdb
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\09Section_Cal.csproj.AssemblyReference.cache
+E:\5 测绘程序设计\09Section_Cal\09Section_Cal\obj\Debug\09Section_Cal.csproj.SuggestedBindingRedirects.cache

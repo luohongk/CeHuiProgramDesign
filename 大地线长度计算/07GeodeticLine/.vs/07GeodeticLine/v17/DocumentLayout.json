@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|d:\\onedrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07geodeticline\\07geodeticline\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|solutionrelative:07geodeticline\\algo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07geodeticline\\filecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|solutionrelative:07geodeticline\\filecenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07geodeticline\\datacenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|solutionrelative:07geodeticline\\datacenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07geodeticline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|solutionrelative:07geodeticline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07geodeticline\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|solutionrelative:07geodeticline\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07geodeticline\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|solutionrelative:07geodeticline\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07geodeticline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3B89DF4-C98C-4FEB-94D6-EDDC8BDAF37D}|07GeodeticLine\\07GeodeticLine.csproj|solutionrelative:07geodeticline\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Algo.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Algo.cs",
+              "RelativeDocumentMoniker": "07GeodeticLine\\Algo.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Algo.cs",
+              "RelativeToolTip": "07GeodeticLine\\Algo.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:24:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileCenter.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\FileCenter.cs",
+              "RelativeDocumentMoniker": "07GeodeticLine\\FileCenter.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\FileCenter.cs",
+              "RelativeToolTip": "07GeodeticLine\\FileCenter.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:24:20.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataCenter.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\DataCenter.cs",
+              "RelativeDocumentMoniker": "07GeodeticLine\\DataCenter.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\DataCenter.cs",
+              "RelativeToolTip": "07GeodeticLine\\DataCenter.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T05:24:20.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Report.cs",
+              "RelativeDocumentMoniker": "07GeodeticLine\\Report.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Report.cs",
+              "RelativeToolTip": "07GeodeticLine\\Report.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-26T05:24:20.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Report.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Report.cs",
+              "RelativeDocumentMoniker": "07GeodeticLine\\Report.cs",
+              "ToolTip": "E:\\5 \u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\\07GeodeticLine\\07GeodeticLine\\Report.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-26T05:24:20.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Form1.cs",
+              "RelativeDocumentMoniker": "07GeodeticLine\\Form1.cs",
+              "ToolTip": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Form1.cs",
+              "RelativeToolTip": "07GeodeticLine\\Form1.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAAKkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-26T05:24:20.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\OneDrive - cumt.edu.cn\\\u684C\u9762\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\2024\u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\u6BD4\u8D5B\u8D44\u6599\u6574\u7406\\\u5927\u5730\u7EBF\u957F\u5EA6\u8BA1\u7B97\\07GeodeticLine\\07GeodeticLine\\Form1.cs",
+              "RelativeDocumentMoniker": "07GeodeticLine\\Form1.cs",
+              "ToolTip": "E:\\5 \u6D4B\u7ED8\u7A0B\u5E8F\u8BBE\u8BA1\\07GeodeticLine\\07GeodeticLine\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-07-26T05:24:20.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
